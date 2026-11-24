@@ -1,0 +1,26 @@
+{
+  "support_id": "",
+  "latest": "0.7.0",
+  "news": [
+    {
+      "id": "2026-11-24-welcome",
+      "level": "info",
+      "title": "Welcome to NebulaOS 0.6.0",
+      "text": "New: Nebula Chat, system check, clean up, battery care."
+    },
+    {
+      "id": "release-0.6.1",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.6.1",
+      "text": "First release of the NebulaOS update channel"
+    },
+    {
+      "id": "release-0.7.0",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.7.0",
+      "text": "Updates move to NebulaOS-updates; the update address is kept on every update"
+    }
+  ]
+}

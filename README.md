@@ -1,2 +1,7 @@
-# NebulaOS-updates
-NebulaOS updates: signed channel and package repository
+# NebulaOS updates
+
+What installed NebulaOS systems download. Nothing to edit here by hand.
+
+- `channel/channel.json` + `channel.sig` — news, polls, official groups, ban list, wallpaper of the week.
+  Every NebulaOS accepts it only with the maintainer's Ed25519 signature.
+- Release `repo` — the pacman repository `[nebulaos]` used by `nebula update`.
