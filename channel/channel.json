@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.9.0",
+  "latest": "0.9.1",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -105,6 +105,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.0",
       "text": "New: Control Center (Super+C), Spotlight (Super+Space), Time Machine style Backups, Phone pairing, Screen time with limits, Drivers app, desktop widgets for each mode"
+    },
+    {
+      "id": "release-0.9.1",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.1",
+      "text": "Nebula Link (phone, send links), one-click Nextcloud and Pi-hole, Lessons and Password check in Toolkit"
     }
   ]
 }
