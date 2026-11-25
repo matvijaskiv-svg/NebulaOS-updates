@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.8.0",
+  "latest": "0.8.1",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -84,6 +84,13 @@
       "action": "update",
       "title": "NebulaOS 0.8.0",
       "text": "App Store with the whole Flathub catalog (3000+ apps, screenshots, categories); space wallpapers in the colors of each mode"
+    },
+    {
+      "id": "release-0.8.1",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.8.1",
+      "text": "Game Center like Big Picture, Server Panel with live graphs, logs and containers, Toolkit with network scan, port check and Wi-Fi list"
     }
   ]
 }
