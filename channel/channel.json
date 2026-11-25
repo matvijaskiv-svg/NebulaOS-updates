@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.7.4",
+  "latest": "0.7.5",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -49,6 +49,13 @@
       "action": "update",
       "title": "NebulaOS 0.7.4",
       "text": "Nebula Store installs apps right in the window with a progress bar; 100+ apps"
+    },
+    {
+      "id": "release-0.7.5",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.7.5",
+      "text": "New macOS-style login screen, clean startup sound, plain app names and texts"
     }
   ]
 }
