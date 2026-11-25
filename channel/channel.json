@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.9.1",
+  "latest": "0.9.2",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -112,6 +112,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.1",
       "text": "Nebula Link (phone, send links), one-click Nextcloud and Pi-hole, Lessons and Password check in Toolkit"
+    },
+    {
+      "id": "release-0.9.2",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.2",
+      "text": "Game Bar (Super+G) with instant replay, Move from Windows, System restore, ProtonDB ratings in Game Center, new steps in Welcome"
     }
   ]
 }
