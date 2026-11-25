@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.7.8",
+  "latest": "0.8.0",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -77,6 +77,13 @@
       "action": "update",
       "title": "NebulaOS 0.7.8",
       "text": "New look without purple: graphite and blue for Hacking, black and red for Gaming, grey and orange for Server; calm new wallpapers"
+    },
+    {
+      "id": "release-0.8.0",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.8.0",
+      "text": "App Store with the whole Flathub catalog (3000+ apps, screenshots, categories); space wallpapers in the colors of each mode"
     }
   ]
 }
