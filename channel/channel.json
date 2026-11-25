@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.7.3",
+  "latest": "0.7.4",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -42,6 +42,13 @@
       "action": "update",
       "title": "NebulaOS 0.7.3",
       "text": "Fixed: wallpaper and panels change again, keyboard layouts are kept, languages work, Nebula Chat reconnects, the assistant knows NebulaOS"
+    },
+    {
+      "id": "release-0.7.4",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.7.4",
+      "text": "Nebula Store installs apps right in the window with a progress bar; 100+ apps"
     }
   ]
 }
