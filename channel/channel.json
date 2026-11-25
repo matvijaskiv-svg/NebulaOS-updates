@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.7.7",
+  "latest": "0.7.8",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -70,6 +70,13 @@
       "action": "update",
       "title": "NebulaOS 0.7.7",
       "text": "New apps: Game Center, Toolkit and Server Panel; each mode styles the NebulaOS apps its own way"
+    },
+    {
+      "id": "release-0.7.8",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.7.8",
+      "text": "New look without purple: graphite and blue for Hacking, black and red for Gaming, grey and orange for Server; calm new wallpapers"
     }
   ]
 }
