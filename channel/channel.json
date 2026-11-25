@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.8.2",
+  "latest": "0.9.0",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -98,6 +98,13 @@
       "action": "update",
       "title": "NebulaOS 0.8.2",
       "text": "Fixes: window buttons visible again, icons in Server mode, panels locked, no GRUB theme error at boot, no keyboard error after updates, clearer update text"
+    },
+    {
+      "id": "release-0.9.0",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.0",
+      "text": "New: Control Center (Super+C), Spotlight (Super+Space), Time Machine style Backups, Phone pairing, Screen time with limits, Drivers app, desktop widgets for each mode"
     }
   ]
 }
