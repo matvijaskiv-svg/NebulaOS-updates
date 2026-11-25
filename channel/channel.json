@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.7.5",
+  "latest": "0.7.6",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -56,6 +56,13 @@
       "action": "update",
       "title": "NebulaOS 0.7.5",
       "text": "New macOS-style login screen, clean startup sound, plain app names and texts"
+    },
+    {
+      "id": "release-0.7.6",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.7.6",
+      "text": "Each mode has its own window style, buttons, icons, cursor and font: macOS for Hacking, Garuda neon for Gaming, Ubuntu for Server"
     }
   ]
 }
