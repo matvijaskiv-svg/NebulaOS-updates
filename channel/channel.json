@@ -1,13 +1,7 @@
 {
   "support_id": "",
-  "latest": "0.9.5",
+  "latest": "0.9.6",
   "news": [
-    {
-      "id": "2026-11-24-welcome",
-      "level": "info",
-      "title": "Welcome to NebulaOS 0.6.0",
-      "text": "New: Nebula Chat, system check, clean up, battery care."
-    },
     {
       "id": "release-0.6.1",
       "level": "info",
@@ -140,6 +134,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.5",
       "text": "Server Panel: Jellyfin, Nextcloud, Pi-hole, file server and Minecraft install in one click with progress; services install without the terminal"
+    },
+    {
+      "id": "release-0.9.6",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.6",
+      "text": "New look per mode: Gaming like Steam, Hacking like Finder, Server like Ubuntu (no colored tiles or cards); new servers: Immich, Vaultwarden, Home Assistant, qBittorrent, Uptime Kuma; remote access with Tailscale"
     }
   ]
 }
