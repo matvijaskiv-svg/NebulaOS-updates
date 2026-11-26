@@ -1,6 +1,6 @@
 {
   "support_id": "",
-  "latest": "0.9.4",
+  "latest": "0.9.5",
   "news": [
     {
       "id": "2026-11-24-welcome",
@@ -133,6 +133,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.4",
       "text": "Server services install themselves (Docker, SSH, Cockpit, nginx, PostgreSQL); Assistant: 10 models with recommendation and download progress; panels locked again"
+    },
+    {
+      "id": "release-0.9.5",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.5",
+      "text": "Server Panel: Jellyfin, Nextcloud, Pi-hole, file server and Minecraft install in one click with progress; services install without the terminal"
     }
   ]
 }
