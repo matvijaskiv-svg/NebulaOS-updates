@@ -1,14 +1,7 @@
 {
   "support_id": "",
-  "latest": "0.9.7",
+  "latest": "0.9.8",
   "news": [
-    {
-      "id": "release-0.7.0",
-      "level": "info",
-      "action": "update",
-      "title": "NebulaOS 0.7.0",
-      "text": "Updates move to NebulaOS-updates; the update address is kept on every update"
-    },
     {
       "id": "release-0.7.1",
       "level": "info",
@@ -141,6 +134,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.7",
       "text": "The mode style now applies to every NebulaOS app: Control Center, Spotlight, Chat, Assistant, Store, Games and Game Bar"
+    },
+    {
+      "id": "release-0.9.8",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.8",
+      "text": "Quick Look: preview any file from the right-click menu, arrows go through the folder; Dolphin styled per mode; games get GameMode (and DLSS on NVIDIA) on first launch"
     }
   ]
 }
