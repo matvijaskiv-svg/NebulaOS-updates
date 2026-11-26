@@ -1,14 +1,7 @@
 {
   "support_id": "",
-  "latest": "0.9.6",
+  "latest": "0.9.7",
   "news": [
-    {
-      "id": "release-0.6.1",
-      "level": "info",
-      "action": "update",
-      "title": "NebulaOS 0.6.1",
-      "text": "First release of the NebulaOS update channel"
-    },
     {
       "id": "release-0.7.0",
       "level": "info",
@@ -141,6 +134,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.6",
       "text": "New look per mode: Gaming like Steam, Hacking like Finder, Server like Ubuntu (no colored tiles or cards); new servers: Immich, Vaultwarden, Home Assistant, qBittorrent, Uptime Kuma; remote access with Tailscale"
+    },
+    {
+      "id": "release-0.9.7",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.7",
+      "text": "The mode style now applies to every NebulaOS app: Control Center, Spotlight, Chat, Assistant, Store, Games and Game Bar"
     }
   ]
 }
