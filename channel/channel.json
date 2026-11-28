@@ -1,14 +1,7 @@
 {
   "support_id": "",
-  "latest": "0.9.9",
+  "latest": "0.9.10",
   "news": [
-    {
-      "id": "release-0.7.2",
-      "level": "info",
-      "action": "update",
-      "title": "NebulaOS 0.7.2",
-      "text": "Panels change shape and style with the mode: glass macOS dock, solid Garuda taskbar, Ubuntu side dock"
-    },
     {
       "id": "release-0.7.3",
       "level": "info",
@@ -141,6 +134,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.9",
       "text": "App Store: starter packs (Creativity, Study and work, Streaming, Gaming extras, Developer, Privacy) installed in one click; fixed cut-off buttons in app tiles; Spotlight converts units (10 km in mi, 100 f in c, 5 gb to mib); Italian completed"
+    },
+    {
+      "id": "release-0.9.10",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.10",
+      "text": "App Store: 12 starter packs on their own page (3D and game making with Blender, Godot, FreeCAD; drawing, video editing, music making, photography, 3D printing, emulators and more)"
     }
   ]
 }
