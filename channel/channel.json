@@ -1,14 +1,7 @@
 {
   "support_id": "",
-  "latest": "0.9.11",
+  "latest": "0.9.12",
   "news": [
-    {
-      "id": "release-0.7.4",
-      "level": "info",
-      "action": "update",
-      "title": "NebulaOS 0.7.4",
-      "text": "Nebula Store installs apps right in the window with a progress bar; 100+ apps"
-    },
     {
       "id": "release-0.7.5",
       "level": "info",
@@ -141,6 +134,13 @@
       "action": "update",
       "title": "NebulaOS 0.9.11",
       "text": "New: Web Apps (any site becomes an app), USB Stick (write an ISO, format), Toolkit tool sets like Kali plus BlackArch with 2800+ tools, Anonymous mode (random MAC + Tor, browser through Tor) without the terminal; fixes"
+    },
+    {
+      "id": "release-0.9.12",
+      "level": "info",
+      "action": "update",
+      "title": "NebulaOS 0.9.12",
+      "text": "NebulaOS on an existing Garuda, EndeavourOS, CachyOS or Arch without reinstalling (install.sh, undo with sudo nebulaos-undo); works with any LibreOffice variant"
     }
   ]
 }
