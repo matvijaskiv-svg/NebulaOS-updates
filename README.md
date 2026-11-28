@@ -10,3 +10,9 @@ What installed NebulaOS systems download. Nothing to edit here by hand.
 
       curl -fsSLO https://raw.githubusercontent.com/matvijaskiv-svg/NebulaOS-updates/main/install.sh
       bash install.sh
+
+- `dualboot.sh` — NebulaOS next to Garuda (or any Arch-based system on btrfs), chosen in the boot menu.
+  No USB stick, no repartitioning: own btrfs subvolumes. `sudo bash dualboot.sh remove` deletes it again.
+
+      curl -fsSLO https://raw.githubusercontent.com/matvijaskiv-svg/NebulaOS-updates/main/dualboot.sh
+      sudo bash dualboot.sh
